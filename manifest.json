@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Fe"
+    "OrganizationName": "Fe",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/weiderui/classisland-mgmt-cfg/master/{id}/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/weiderui/classisland-mgmt-cfg/master/{id}/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/weiderui/classisland-mgmt-cfg/master/{id}/subjects.json",
+        "Version": 1
+    }
 }
