@@ -12,5 +12,9 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/weiderui/classisland-mgmt-cfg/master/{id}/subjects.json",
         "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/weiderui/classisland-mgmt-cfg/master/{id}/policy.json",
+        "Version": 1
     }
 }
