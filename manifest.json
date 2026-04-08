@@ -3,7 +3,7 @@
     "OrganizationName": "Fe",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/weiderui/classisland-mgmt-cfg/master/{id}/classplans.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/weiderui/classisland-mgmt-cfg/master/{id}/timelayouts.json",
@@ -15,6 +15,6 @@
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/weiderui/classisland-mgmt-cfg/master/{id}/policy.json",
-        "Version": 1
+        "Version": 2
     }
 }
